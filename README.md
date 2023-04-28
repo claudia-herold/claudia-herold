@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @claudia-herold
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Azure Artifitial Intelligence
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Data Science and BI.
+- 🌱 I count with 15+ experience in IT Solutions.
+- 💞️ I’m looking to collaborate on Data Science Projects and participate as Instructor.
 - 📫 How to reach me: email to claudiapherold@gmail.com
 
 <!---
